@@ -1,0 +1,30 @@
+{
+  "name": "ocarina",
+  "version": "0.0.1",
+  "description": "Functional datetime library",
+  "main": "ocarina.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitrancher/ocarina.git"
+  },
+  "keywords": [
+    "ocarina",
+    "date",
+    "time",
+    "datetime",
+    "format",
+    "timestamp"
+  ],
+  "author": "BitRancher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitrancher/ocarina/issues"
+  },
+  "homepage": "https://github.com/bitrancher/ocarina#readme",
+  "dependencies": {
+    "moment": "^2.10.2"
+  }
+}
